@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+client/.env
+server/.env
+
+src - Shortcut.lnk
+
+/StudyTrack/
