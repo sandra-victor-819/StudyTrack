@@ -1,0 +1,8 @@
+{
+  "name": "studytrack",
+  "private": true,
+  "scripts": {
+    "build": "npm ci --prefix server && npm ci --prefix client && npm run build --prefix client",
+    "start": "npm start --prefix server"
+  }
+}
